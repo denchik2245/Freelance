@@ -36,3 +36,4 @@
 | 27-stroitelstvo-domov.png | Лендинг строительства домов |
 | 28-obuchenie-v-belarusi.png | Лендинг обучения в Беларуси |
 | 29-obsluzhivanie-zhd.png | Сайт обслуживания железных дорог |
+| 30-plume-lounge.png | Лендинг лаунж-бара Plume (новая работа, 18.11.2026; на Kwork ещё не добавлена) |
