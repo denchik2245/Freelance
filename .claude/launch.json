@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "zakulab",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "--prefix",
+        "/Users/flareonxgod/Work/zakulab",
+        "start"
+      ],
+      "port": 8080
+    }
+  ]
+}
